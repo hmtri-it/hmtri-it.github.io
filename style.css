@@ -51,13 +51,13 @@ p {
 	padding: 0 40px;
 }
 
-#headshot {
+#avatar {
 	width: 12.5%;
 	float: left;
 	margin-right: 10px;
 }
 
-#headshot img {
+#avatar img {
 	width: 50%;
 	height: auto;
 	-webkit-border-radius: 60px;
